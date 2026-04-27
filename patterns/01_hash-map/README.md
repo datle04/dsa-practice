@@ -1,0 +1,63 @@
+# 01 — HashMap / HashSet
+
+## When to Use
+
+- Count frequency of elements
+- Check if something was seen before (O(1) lookup)
+- Find pairs/groups satisfying a condition
+- Map one value to another
+
+## Template
+
+```typescript
+// Frequency counting
+const freq = new Map<number, number>();
+for (const num of arr) {
+  freq.set(num, (freq.get(num) ?? 0) + 1);
+}
+
+// Complement lookup
+const seen = new Map<number, number>(); // value → index
+for (let i = 0; i < nums.length; i++) {
+  const complement = target - nums[i];
+  if (seen.has(complement)) return [seen.get(complement)!, i];
+  seen.set(nums[i], i);
+}
+```
+
+## Problems
+
+### Easy
+
+| # | Problem | Status | Date |
+|---|---------|--------|------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | | |
+| 2 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | | |
+| 3 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | | |
+| 4 | [Majority Element](https://leetcode.com/problems/majority-element/) | | |
+| 5 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | | |
+| 6 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | | |
+| 7 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | | |
+| 8 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | | |
+
+### Medium
+
+| # | Problem | Status | Date |
+|---|---------|--------|------|
+| 9 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | | |
+| 10 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | | |
+| 11 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | | |
+| 12 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | | |
+
+## Hints
+
+<details><summary>Two Sum</summary>For each num, check if target - num exists in the Map.</details>
+<details><summary>Contains Duplicate</summary>Add to Set. If already exists → duplicate.</details>
+<details><summary>Valid Anagram</summary>Compare character frequency maps of both strings.</details>
+<details><summary>Group Anagrams</summary>Sorted string as Map key → anagrams share the same key.</details>
+<details><summary>Top K Frequent</summary>Count with Map → sort by frequency → take top K.</details>
+<details><summary>Product of Array Except Self</summary>Prefix product (left→right) × suffix product (right→left).</details>
+
+## Lessons Learned
+
+-
