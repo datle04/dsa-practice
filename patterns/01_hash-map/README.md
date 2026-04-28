@@ -49,15 +49,4 @@ for (let i = 0; i < nums.length; i++) {
 | 11 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | | |
 | 12 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | | |
 
-## Hints
-
-<details><summary>Two Sum</summary>For each num, check if target - num exists in the Map.</details>
-<details><summary>Contains Duplicate</summary>Add to Set. If already exists → duplicate.</details>
-<details><summary>Valid Anagram</summary>Compare character frequency maps of both strings.</details>
-<details><summary>Group Anagrams</summary>Sorted string as Map key → anagrams share the same key.</details>
-<details><summary>Top K Frequent</summary>Count with Map → sort by frequency → take top K.</details>
-<details><summary>Product of Array Except Self</summary>Prefix product (left→right) × suffix product (right→left).</details>
-
-## Lessons Learned
-
 -
