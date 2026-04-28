@@ -31,11 +31,11 @@ for (let i = 0; i < nums.length; i++) {
 
 | # | Problem | Status | Date |
 |---|---------|--------|------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | | |
-| 2 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | | |
-| 3 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | | |
-| 4 | [Majority Element](https://leetcode.com/problems/majority-element/) | | |
-| 5 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | | |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | 27/04/2026 |
+| 2 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | ✅ | 27/04/2026 |
+| 3 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ | 28/04/2026 |
+| 4 | [Majority Element](https://leetcode.com/problems/majority-element/) | ✅ | 28/04/2026 |
+| 5 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ✅ | 28/04/2026 |
 | 6 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | | |
 | 7 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | | |
 | 8 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | | |
