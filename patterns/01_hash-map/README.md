@@ -36,7 +36,7 @@ for (let i = 0; i < nums.length; i++) {
 | 3 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ✅ | 28/04/2026 |
 | 4 | [Majority Element](https://leetcode.com/problems/majority-element/) | ✅ | 28/04/2026 |
 | 5 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ✅ | 28/04/2026 |
-| 6 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | | |
+| 6 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅ | 28/04/2026 |
 | 7 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | | |
 | 8 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | | |
 
