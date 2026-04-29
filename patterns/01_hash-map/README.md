@@ -44,8 +44,8 @@ for (let i = 0; i < nums.length; i++) {
 
 | # | Problem | Status | Date |
 |---|---------|--------|------|
-| 9 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | | |
-| 10 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | | |
+| 9 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |✅| 29/04/2026 |
+| 10 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |✅| 29/04/2026 |
 | 11 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | | |
 | 12 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | | |
 
