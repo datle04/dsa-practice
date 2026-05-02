@@ -37,9 +37,9 @@ for (let fast = 0; fast < arr.length; fast++) {
 | 1 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Opposite |✅| 01/05/2026 |
 | 2 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Same dir |✅| 01/05/2026|
 | 3 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Same dir |✅| 01/05/2026 |
-| 4 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Opposite | | |
-| 5 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Fast & Slow | | |
-| 6 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Fast & Slow | | |
+| 4 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Opposite |✅| 02/05/2026 |
+| 5 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Fast & Slow |✅| 02/05/2026 |
+| 6 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Fast & Slow |✅| 02/05/2026 |
 
 ### Medium
 
