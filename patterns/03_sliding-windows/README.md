@@ -38,7 +38,7 @@ for (let right = 0; right < arr.length; right++) {
 | # | Problem | Type | Status | Date |
 |---|---------|------|--------|------|
 | 1 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Fixed |✅| 04/05/2026 |
-| 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Dynamic | | |
+| 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Dynamic |✅| 04/05/2026 |
 
 ### Medium
 
