@@ -50,7 +50,7 @@ No time limit. Move to the next pattern when you can solve 60%+ of problems with
 | Phase | Pattern | Problems | Status |
 |-------|---------|----------|--------|
 | **Foundation** | 01 - HashMap | 10-12 | ✅ |
-| | 02 - Two Pointers | 10 | 🟡 |
+| | 02 - Two Pointers | 10 | ✅ |
 | | 03 - Sliding Window | 9 | ⬜ |
 | | 04 - Binary Search | 8 | ⬜ |
 | | 05 - Stack | 8 | ⬜ |

@@ -53,7 +53,7 @@ for (let fast = 0; fast < arr.length; fast++) {
 
 | # | Problem | Variant | Status | Date |
 |---|---------|---------|--------|------|
-| 10 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Opposite | | |
+| 10 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Opposite |✅| 03/05/2026 |
 
 ## Hints
 
