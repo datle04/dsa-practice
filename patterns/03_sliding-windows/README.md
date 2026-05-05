@@ -46,7 +46,7 @@ for (let right = 0; right < arr.length; right++) {
 |---|---------|------|--------|------|
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Dynamic |✅| 05/05/2026 |
 | 4 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Dynamic |✅| 05/05/2026 |
-| 5 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Dynamic | | |
+| 5 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Dynamic |✅| 05/05/2026 |
 | 6 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Fixed | | |
 | 7 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Fixed | | |
 | 8 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Dynamic | | |
