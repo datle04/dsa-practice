@@ -39,7 +39,7 @@ while (lo < hi) {
 
 | # | Problem | Variant | Status | Date |
 |---|---------|---------|--------|------|
-| 1 | [Binary Search](https://leetcode.com/problems/binary-search/) | Standard | | |
+| 1 | [Binary Search](https://leetcode.com/problems/binary-search/) | Standard |✅| 11/05/2026 |
 | 2 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Boundary | | |
 | 3 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Boundary | | |
 | 4 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | On answer | | |
