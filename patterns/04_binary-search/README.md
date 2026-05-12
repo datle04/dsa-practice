@@ -42,7 +42,7 @@ while (lo < hi) {
 | 1 | [Binary Search](https://leetcode.com/problems/binary-search/) | Standard |✅| 11/05/2026 |
 | 2 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Boundary |✅| 11/05/2026 |
 | 3 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Boundary |✅| 12/05/2026 |
-| 4 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | On answer | | |
+| 4 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | On answer |✅| 12/05/2026 |
 
 ### Medium
 
