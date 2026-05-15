@@ -38,7 +38,7 @@ for (let i = 0; i < arr.length; i++) {
 
 | # | Problem | Type | Status | Date |
 |---|---------|------|--------|------|
-| 1 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Matching | | |
+| 1 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Matching |✅| 15/05/2026 |
 | 2 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Simulation | | |
 | 3 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Monotonic | | |
 | 4 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Design | | |
