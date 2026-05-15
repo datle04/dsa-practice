@@ -53,6 +53,12 @@ while (lo < hi) {
 | 7 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Variant |✅|14/05/2026|
 | 8 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | On answer |✅| 14/05/2026 |
 
+### Hard
+
+| # | Problem | Variant | Status | Date |
+|---|---------|---------|--------|------|
+| 9 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Standard |✅| 15/05/2026 |
+
 ## Hints
 
 <details><summary>Binary Search</summary>Standard template. Compare mid with target, adjust left or right.</details>
@@ -63,3 +69,4 @@ while (lo < hi) {
 <details><summary>Find Minimum in Rotated Sorted Array</summary>Compare mid with right. If arr[mid] > arr[right] → min is in right half. Otherwise left half.</details>
 <details><summary>Search in Rotated Sorted Array</summary>Determine which half is sorted (compare mid with left). Check if target falls in the sorted half.</details>
 <details><summary>Koko Eating Bananas</summary>Binary search on speed k ∈ [1, max(piles)]. For each k, compute total hours = sum of ceil(pile / k).</details>
+<details><summary>Find Minimum in Rotated Sorted Array II</summary>Compare mid with right. If arr[mid] > arr[right] → min is in right half. If arr[mid] < arr[right] → min is in left half. Create a new branch to handle arr[mid] === arr[right] | arr[left] case.</details>
