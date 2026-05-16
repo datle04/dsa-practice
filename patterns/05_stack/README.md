@@ -40,8 +40,8 @@ for (let i = 0; i < arr.length; i++) {
 |---|---------|------|--------|------|
 | 1 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Matching |✅| 15/05/2026 |
 | 2 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Simulation |✅| 15/05/2026 |
-| 3 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Monotonic |✅| 15/05/2026 |
-| 4 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Design | | |
+| 3 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Monotonic |✅| 16/05/2026 |
+| 4 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Design |✅| 16/05/2026 |
 
 ### Medium
 
