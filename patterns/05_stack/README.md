@@ -47,7 +47,7 @@ for (let i = 0; i < arr.length; i++) {
 
 | # | Problem | Type | Status | Date |
 |---|---------|------|--------|------|
-| 5 | [Min Stack](https://leetcode.com/problems/min-stack/) | Design | | |
+| 5 | [Min Stack](https://leetcode.com/problems/min-stack/) | Design |✅| 17/05/2026 |
 | 6 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Monotonic | | |
 | 7 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | Monotonic | | |
 
