@@ -55,7 +55,7 @@ for (let i = 0; i < arr.length; i++) {
 
 | # | Problem | Type | Status | Date |
 |---|---------|------|--------|------|
-| 8 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Monotonic | | |
+| 8 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Monotonic |✅| 20/05/2026 |
 
 ## Hints
 
@@ -68,6 +68,3 @@ for (let i = 0; i < arr.length; i++) {
 <details><summary>Online Stock Span</summary>Monotonic decreasing stack of [price, span]. Pop and accumulate span while top <= current price.</details>
 <details><summary>Largest Rectangle in Histogram</summary>Monotonic increasing stack. When popping bar, calculate area with that bar as the shortest height. Width = i - stack.top - 1.</details>
 
-## Lessons Learned
-
--
