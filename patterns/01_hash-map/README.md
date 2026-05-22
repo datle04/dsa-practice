@@ -39,14 +39,20 @@ for (let i = 0; i < nums.length; i++) {
 | 6 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |✅| 28/04/2026 |
 | 7 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |✅| 28/04/2026 |
 | 8 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |✅| 28/04/2026 |
+| 9 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |✅| 22/05/2026 |
+| 10 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) |✅| 22/05/2026 |
+| 11 | [Word Pattern](https://leetcode.com/problems/word-pattern/) |✅| 22/05/2026 |
 
 ### Medium
 
 | # | Problem | Status | Date |
 |---|---------|--------|------|
-| 9 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |✅| 29/04/2026 |
-| 10 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |✅| 29/04/2026 |
-| 11 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |✅| 29/04/2026 |
-| 12 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |✅| 30/04/2026 |
+| 1 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |✅| 29/04/2026 |
+| 2 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |✅| 29/04/2026 |
+| 3 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |✅| 29/04/2026 |
+| 4 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |✅| 30/04/2026 |
+| 5 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | | |
+| 6 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | | |
+| 7 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | | |
 
 -
