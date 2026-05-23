@@ -53,6 +53,6 @@ for (let i = 0; i < nums.length; i++) {
 | 4 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |✅| 30/04/2026 |
 | 5 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) |✅| 23/05/2026|
 | 6 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |✅| 23/05/2026 |
-| 7 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | | |
+| 7 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) |✅| 23/05/2026 |
 
 -
