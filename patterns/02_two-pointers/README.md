@@ -40,20 +40,27 @@ for (let fast = 0; fast < arr.length; fast++) {
 | 4 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Opposite |✅| 02/05/2026 |
 | 5 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Fast & Slow |✅| 02/05/2026 |
 | 6 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Fast & Slow |✅| 02/05/2026 |
+| 7 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Opposite |✅| 24/05/2026 |
+| 8 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Same dir |✅| 24/05/2026 |
 
 ### Medium
 
 | # | Problem | Variant | Status | Date |
 |---|---------|---------|--------|------|
-| 7 | [Two Sum II - Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Opposite |✅| 03/05/2026 |
-| 8 | [3Sum](https://leetcode.com/problems/3sum/) | Opposite |✅| 03/05/2026 |
-| 9 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Opposite |✅| 03/05/2026 |
+| 1 | [Two Sum II - Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Opposite |✅| 03/05/2026 |
+| 2 | [3Sum](https://leetcode.com/problems/3sum/) | Opposite |✅| 03/05/2026 |
+| 3 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Opposite |✅| 03/05/2026 |
+| 4 | [Sort Colors](https://leetcode.com/problems/sort-colors) |  | |  |
+| 5 | [Rotated List](https://leetcode.com/problems/rotate-list/) |  | |  |
+| 6 | [Remove Dupliccates from sorted array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |  | |  |
+| 7 | [4Sum](https://leetcode.com/problems/4sum/) |  | |  |
+
 
 ### Hard
 
 | # | Problem | Variant | Status | Date |
 |---|---------|---------|--------|------|
-| 10 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Opposite |✅| 03/05/2026 |
+| 1 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Opposite |✅| 03/05/2026 |
 
 ## Hints
 
