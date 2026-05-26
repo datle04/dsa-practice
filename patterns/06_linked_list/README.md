@@ -46,7 +46,7 @@ return dummy.next;
 |---|---------|-------|--------|------|
 | 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Reverse |✅| 26/05/2026 |
 | 2 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Merge |✅| 26/05/2026 |
-| 3 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Fast/Slow + Reverse | | |
+| 3 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Fast/Slow + Reverse |✅| 26/05/2026 |
 | 4 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Traverse + Dummy | | |
 
 ### Medium
