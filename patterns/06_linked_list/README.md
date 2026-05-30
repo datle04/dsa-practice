@@ -56,7 +56,7 @@ return dummy.next;
 | 5 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Traverse + Carry |✅| 27/05/2026 |
 | 6 | [Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Fast/Slow |✅| 29/05/2026 |
 | 7 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Fast/Slow + Reverse + Merge |✅| 29/05/2026 |
-| 8 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | HashMap | | |
+| 8 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | HashMap |✅| 30/05/2026 |
 
 ## Hints
 
