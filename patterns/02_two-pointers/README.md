@@ -51,7 +51,7 @@ for (let fast = 0; fast < arr.length; fast++) {
 | 2 | [3Sum](https://leetcode.com/problems/3sum/) | Opposite |✅| 03/05/2026 |
 | 3 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Opposite |✅| 03/05/2026 |
 | 4 | [Sort Colors](https://leetcode.com/problems/sort-colors) |  |✅| 25/05/2026 |
-| 5 | [Rotated List](https://leetcode.com/problems/rotate-list/) |  | |  |
+| 5 | [Rotated List](https://leetcode.com/problems/rotate-list/) | Fast & Slow |✅| 01/06/2026 |
 | 6 | [Remove Dupliccates from sorted array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |  | |  |
 | 7 | [4Sum](https://leetcode.com/problems/4sum/) |  | |  |
 
