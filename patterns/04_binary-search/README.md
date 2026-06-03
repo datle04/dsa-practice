@@ -43,21 +43,22 @@ while (lo < hi) {
 | 2 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Boundary |✅| 11/05/2026 |
 | 3 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Boundary |✅| 12/05/2026 |
 | 4 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | On answer |✅| 12/05/2026 |
+| 5 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | On answer |✅| 03/06/2026 |
 
 ### Medium
 
 | # | Problem | Variant | Status | Date |
 |---|---------|---------|--------|------|
-| 5 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Standard |✅| 13/05/2026 |
-| 6 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Variant |✅|13/05/2026|
-| 7 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Variant |✅|14/05/2026|
-| 8 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | On answer |✅| 14/05/2026 |
+| 1 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Standard |✅| 13/05/2026 |
+| 2 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Variant |✅|13/05/2026|
+| 3 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Variant |✅|14/05/2026|
+| 4 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | On answer |✅| 14/05/2026 |
 
 ### Hard
 
 | # | Problem | Variant | Status | Date |
 |---|---------|---------|--------|------|
-| 9 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Standard |✅| 15/05/2026 |
+| 1 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Standard |✅| 15/05/2026 |
 
 ## Hints
 
