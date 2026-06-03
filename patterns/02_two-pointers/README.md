@@ -42,6 +42,7 @@ for (let fast = 0; fast < arr.length; fast++) {
 | 6 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Fast & Slow |✅| 02/05/2026 |
 | 7 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Opposite |✅| 24/05/2026 |
 | 8 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Same dir |✅| 24/05/2026 |
+| 9 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | Opposite |✅| 03/06/2026 |
 
 ### Medium
 
