@@ -44,6 +44,7 @@ while (lo < hi) {
 | 3 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Boundary |✅| 12/05/2026 |
 | 4 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | On answer |✅| 12/05/2026 |
 | 5 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | On answer |✅| 03/06/2026 |
+| 5 | [Guess Number Higher Or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | Standard |✅| 08/06/2026 |
 
 ### Medium
 
