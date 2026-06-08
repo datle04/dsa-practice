@@ -42,6 +42,7 @@ for (let i = 0; i < nums.length; i++) {
 | 9 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |✅| 22/05/2026 |
 | 10 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) |✅| 22/05/2026 |
 | 11 | [Word Pattern](https://leetcode.com/problems/word-pattern/) |✅| 22/05/2026 |
+| 12 | [Find The Difference](https://leetcode.com/problems/find-the-difference/) |✅| 08/06/2026 |
 
 ### Medium
 
