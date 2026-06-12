@@ -55,7 +55,7 @@ function bfs(root: TreeNode | null): number[][] {
 | # | Problem | Type | Status | Date |
 |---|---------|------|--------|------|
 | 1 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | DFS |✅| 10/06/2026 |
-| 2 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | DFS | | |
+| 2 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | DFS |✅| 12/06/2026 |
 | 3 | [Same Tree](https://leetcode.com/problems/same-tree/) | DFS | | |
 | 4 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | DFS | | |
 | 5 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | DFS | | |
