@@ -67,8 +67,8 @@ function bfs(root: TreeNode | null): number[][] {
 | 6 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | BFS |✅| 15/06/2026 |
 | 7 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | DFS |✅| 16/06/2026 |
 | 8 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | DFS inorder |✅| 17/06/2026 |
-| 9 | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | DFS | | |
-| 10 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | BFS | | |
+| 9 | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | DFS |✅| 17/06/2026 |
+| 10 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | BFS |✅| 17/06/2026 |
 | 11 | [Construct Binary Tree from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | DFS | | |
 
 ### Hard
