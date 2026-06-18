@@ -59,6 +59,7 @@ function bfs(root: TreeNode | null): number[][] {
 | 3 | [Same Tree](https://leetcode.com/problems/same-tree/) | DFS |✅| 12/06/2026 |
 | 4 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | DFS |✅| 14/06/2026 |
 | 5 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | DFS |✅| 14/06/2026 |
+| 6 | [Path Sum](https://leetcode.com/problems/path-sum/) | DFS |✅| 18/06/2026 |
 
 ### Medium
 
@@ -75,7 +76,7 @@ function bfs(root: TreeNode | null): number[][] {
 
 | # | Problem | Type | Status | Date |
 |---|---------|------|--------|------|
-| 12 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | DFS | | |
+| 12 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | DFS |✅| 18/06/2026 |
 
 ## Hints
 
