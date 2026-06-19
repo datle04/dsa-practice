@@ -60,23 +60,24 @@ function bfs(root: TreeNode | null): number[][] {
 | 4 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | DFS |✅| 14/06/2026 |
 | 5 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | DFS |✅| 14/06/2026 |
 | 6 | [Path Sum](https://leetcode.com/problems/path-sum/) | DFS |✅| 18/06/2026 |
+| 7 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | DFS inorder |✅| 19/06/2026 |
 
 ### Medium
 
 | # | Problem | Type | Status | Date |
 |---|---------|------|--------|------|
-| 6 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | BFS |✅| 15/06/2026 |
-| 7 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | DFS |✅| 16/06/2026 |
-| 8 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | DFS inorder |✅| 17/06/2026 |
-| 9 | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | DFS |✅| 17/06/2026 |
-| 10 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | BFS |✅| 17/06/2026 |
-| 11 | [Construct Binary Tree from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | DFS |✅| 18/06/2026 |
+| 1 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | BFS |✅| 15/06/2026 |
+| 2 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | DFS |✅| 16/06/2026 |
+| 3 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | DFS inorder |✅| 17/06/2026 |
+| 4 | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | DFS |✅| 17/06/2026 |
+| 5 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | BFS |✅| 17/06/2026 |
+| 6 | [Construct Binary Tree from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | DFS |✅| 18/06/2026 |
 
 ### Hard
 
 | # | Problem | Type | Status | Date |
 |---|---------|------|--------|------|
-| 12 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | DFS |✅| 18/06/2026 |
+| 11 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | DFS |✅| 18/06/2026 |
 
 ## Hints
 
