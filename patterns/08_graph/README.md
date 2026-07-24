@@ -93,7 +93,7 @@ function topoSort(numCourses: number, prerequisites: number[][]): number[] {
 
 | # | Problem | Type | Status | Date |
 |---|---------|------|--------|------|
-| 1 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | DFS/BFS grid | | |
+| 1 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | DFS/BFS grid |✅| 24/07/2026 |
 | 2 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | BFS/DFS + HashMap | | |
 | 3 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | DFS from border | | |
 | 4 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Topological sort | | |

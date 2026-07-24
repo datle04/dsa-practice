@@ -54,9 +54,9 @@ No time limit. Move to the next pattern when you can solve 60%+ of problems with
 | | 03 - Sliding Window | 9 | ✅ |
 | | 04 - Binary Search | 8 | ✅ |
 | | 05 - Stack | 8 | ✅ |
-| **Core** | 06 - Linked List | 8 | 🟡 |
-| | 07 - Tree BFS/DFS | 12 | ⬜ |
-| | 08 - Graph | 10 | ⬜ |
+| **Core** | 06 - Linked List | 8 | ✅ |
+| | 07 - Tree BFS/DFS | 12 | ✅ |
+| | 08 - Graph | 10 | 🟡 |
 | | 09 - Backtracking | 8 | ⬜ |
 | **Advanced** | 10 - Heap | 8 | ⬜ |
 | | 11 - Dynamic Programming | 15 | ⬜ |
