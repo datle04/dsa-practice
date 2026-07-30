@@ -94,8 +94,8 @@ function topoSort(numCourses: number, prerequisites: number[][]): number[] {
 | # | Problem | Type | Status | Date |
 |---|---------|------|--------|------|
 | 1 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | DFS/BFS grid |✅| 24/07/2026 |
-| 2 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | BFS/DFS + HashMap | | |
-| 3 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | DFS from border | | |
+| 2 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | BFS/DFS + HashMap |✅| 28/07/2026 |
+| 3 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | DFS from border |✅| 30/07/2026 |
 | 4 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Topological sort | | |
 | 5 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Topological sort | | |
 | 6 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Multi-source BFS | | |
